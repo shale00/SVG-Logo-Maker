@@ -15,8 +15,8 @@
     "type": "git",
     "url": "git+https://github.com/shale00/SVG-Logo-Maker.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "shale00",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/shale00/SVG-Logo-Maker/issues"
   },
