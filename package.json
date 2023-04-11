@@ -1,0 +1,27 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shale00/SVG-Logo-Maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shale00/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/shale00/SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
