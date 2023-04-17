@@ -8,6 +8,6 @@ const createLogo = require('./lib/createLogo');
 inquirer.prompt(questions)
     .then((response) => {
         createLogo(response);
-        console.log('Generated logo.svg.');
+        console.log('Generated logo.svg!');
     })
     .catch((err) => console.log(err));
