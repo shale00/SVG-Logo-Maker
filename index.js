@@ -4,8 +4,7 @@ const questions = require('./lib/questions');
 const createLogo = require('./lib/createLogo');
 
 
-// Function to initialize app
-
+// Inquirer module to prompt user
 inquirer.prompt(questions)
     .then((response) => {
         createLogo(response);
