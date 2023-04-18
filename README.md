@@ -14,7 +14,7 @@
   * [Questions](#questions)
   
   ## Installation
-  The user will need to clone the repository locally and then install the Inquirer.js version 8.2.5 npm to run the app.
+  The user will need to clone the repository locally and then run 'npm i' in the command line to install the packages needed to run the app.
 
   ## Usage
   Open the app in the terminal and use node to call the index.js file, then answer the prompts to create a .svg file with the logo the user designed. A walkthrough video is provided below:
